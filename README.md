@@ -1,4 +1,4 @@
-A simple app which demonstratest how functions work in Dart.
+A simple app which demonstrates how functions work in Dart.
 
 This app doesn't work on VSC terminal. Error: "Global evaluation requires a thread to have been loaded.".
 
