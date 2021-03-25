@@ -2,11 +2,11 @@ import 'dart:io';
 
 prompt(String promptText) {
   print(promptText);
-  String answer = stdin.readLineSync();
+  var answer = stdin.readLineSync();
   return answer;
 }
 
 void main() {
-  String color = prompt('Enter a color: ');
+  var color = prompt('Enter a color: ');
   print('The color is ${color}.');
 }
